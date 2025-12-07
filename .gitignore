@@ -1,0 +1,18 @@
+# Docker
+.dockerignore
+
+# SonarQube
+.scannerwork/
+.sonar/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
